@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AN1ZyryE4LXWx8hyn7y4SMO3+pxXM6hN3GIC/MTWXoplBBLASvv0AkxE3FjaJ+TvW9zl6Egvs777KINlJHe5/Q==",
+  "dgSpecHash": "90wdUbLcbXt0DsQADYuuyqsPjfaA/mcv/14UsiEln/fH6pV3cPKrx/fRyV6ttxzo6gvZVEDxVcfYyJibbPeNSw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\LeetCode\\TwoPointersIsPalindrom\\TwoPointersIsPalindrom.csproj",
+  "projectFilePath": "C:\\dev\\LeetCode\\TwoPointersIsPalindrom\\TwoPointers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

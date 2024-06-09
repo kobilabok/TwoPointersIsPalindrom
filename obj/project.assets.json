@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\LeetCode\\TwoPointersIsPalindrom\\TwoPointersIsPalindrom.csproj",
-      "projectName": "TwoPointersIsPalindrom",
-      "projectPath": "C:\\dev\\LeetCode\\TwoPointersIsPalindrom\\TwoPointersIsPalindrom.csproj",
+      "projectUniqueName": "C:\\dev\\LeetCode\\TwoPointersIsPalindrom\\TwoPointers.csproj",
+      "projectName": "TwoPointers",
+      "projectPath": "C:\\dev\\LeetCode\\TwoPointersIsPalindrom\\TwoPointers.csproj",
       "packagesPath": "C:\\Users\\Family\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\LeetCode\\TwoPointersIsPalindrom\\obj\\",
       "projectStyle": "PackageReference",
