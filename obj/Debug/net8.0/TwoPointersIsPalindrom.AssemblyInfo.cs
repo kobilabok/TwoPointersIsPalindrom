@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TwoPointersIsPalindrom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79fcc781a74c3452ca8629eae89d9383add39080")]
 [assembly: System.Reflection.AssemblyProductAttribute("TwoPointersIsPalindrom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TwoPointersIsPalindrom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

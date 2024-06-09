@@ -12,3 +12,4 @@ C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\refint\TwoPointersIsPali
 C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\TwoPointersIsPalindrom.pdb
 C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\TwoPointersIsPalindrom.genruntimeconfig.cache
 C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\ref\TwoPointersIsPalindrom.dll
+C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\TwoPointersIsPalindrom.sourcelink.json
