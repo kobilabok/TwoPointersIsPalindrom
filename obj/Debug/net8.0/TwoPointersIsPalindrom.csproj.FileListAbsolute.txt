@@ -1,0 +1,14 @@
+C:\dev\LeetCode\TwoPointersIsPalindrom\bin\Debug\net8.0\TwoPointersIsPalindrom.exe
+C:\dev\LeetCode\TwoPointersIsPalindrom\bin\Debug\net8.0\TwoPointersIsPalindrom.deps.json
+C:\dev\LeetCode\TwoPointersIsPalindrom\bin\Debug\net8.0\TwoPointersIsPalindrom.runtimeconfig.json
+C:\dev\LeetCode\TwoPointersIsPalindrom\bin\Debug\net8.0\TwoPointersIsPalindrom.dll
+C:\dev\LeetCode\TwoPointersIsPalindrom\bin\Debug\net8.0\TwoPointersIsPalindrom.pdb
+C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\TwoPointersIsPalindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\TwoPointersIsPalindrom.AssemblyInfoInputs.cache
+C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\TwoPointersIsPalindrom.AssemblyInfo.cs
+C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\TwoPointersIsPalindrom.csproj.CoreCompileInputs.cache
+C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\TwoPointersIsPalindrom.dll
+C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\refint\TwoPointersIsPalindrom.dll
+C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\TwoPointersIsPalindrom.pdb
+C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\TwoPointersIsPalindrom.genruntimeconfig.cache
+C:\dev\LeetCode\TwoPointersIsPalindrom\obj\Debug\net8.0\ref\TwoPointersIsPalindrom.dll
